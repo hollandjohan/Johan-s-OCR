@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Work\Android3\ScreenshotOCR\ScreenshotOCR\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="f46bcef4b9de9103dd0fb02c5cd15de6a96d9c93">
+        <dex dex="D:\Work\Android3\ScreenshotOCR\ScreenshotOCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b01c8ec9e8eeab31945d73905ec6094b9dd413cb\classes.dex" />
+    </item>
+    <item
+        jar="D:\Work\Android3\ScreenshotOCR\ScreenshotOCR\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\Work\Android3\ScreenshotOCR\ScreenshotOCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.0.0_470ff2ec04e436d2f90229e1ee5df33b0d2e265f\classes.dex" />
+    </item>
+    <item
+        jar="D:\Work\Android3\ScreenshotOCR\ScreenshotOCR\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="c8f968e4fedf1b146202f936553a589035aa6def">
+        <dex dex="D:\Work\Android3\ScreenshotOCR\ScreenshotOCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2605724923f25bfaf01ccd45004d933ce4f0f628\classes.dex" />
+    </item>
+    <item
+        jar="D:\DevelopmentTool\Android\Android SDK\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\Work\Android3\ScreenshotOCR\ScreenshotOCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.0.0_c3a15d0697a9a0bfefbb86d05a6ade3084474955\classes.dex" />
+    </item>
+    <item
+        jar="D:\Work\Android3\ScreenshotOCR\ScreenshotOCR\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\Work\Android3\ScreenshotOCR\ScreenshotOCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_141b62e9ef69d616ecf3d6a7a610f18d1308e777\classes.dex" />
+    </item>
+    <item
+        jar="D:\Work\Android3\ScreenshotOCR\ScreenshotOCR\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\Work\Android3\ScreenshotOCR\ScreenshotOCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.0.0_bbabf6f8bfa989e086ce5d3b9598285169f5377a\classes.dex" />
+    </item>
+
+</items>

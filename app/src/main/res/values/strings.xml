@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScreenshotOCR</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_switch_text">Automatic screenshot OCR</string>
+</resources>
